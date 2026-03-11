@@ -1,6 +1,10 @@
 # ♠️ Vanilla JS Blackjack ♣️
 
-A fully responsive, web-based Blackjack game built with HTML, CSS, and Vanilla JavaScript. The game features a simulated dealer, a working betting system, and a modern, fluid user interface designed to look like a real casino table.
+A fully responsive, web-based Blackjack game built with HTML, CSS, and Vanilla JavaScript. The game features a simulated dealer.
+
+
+## Live Demo [https://emjotka05.github.io/simple-blackjack-game-web/]
+
 
 ## Features
 
@@ -25,9 +29,11 @@ This project requires no build tools or external dependencies.
 2. Open the `index.html` file in any modern web browser. 
 3. Click **START GAME** and enjoy!
 
+OR Click on Live Demo link [https://emjotka05.github.io/simple-blackjack-game-web/]
+
 ## Future Improvements
 
 * Replace text representations of cards with visual graphic cards.
 * Custom player name.
-* Implement multiplayer option.
-* Allow dynamic betting amounts instead of a fixed $10 bet.
+* Implement multiplayer.
+* Allow dynamic betting amounts instead of a fixed $20 bet.
